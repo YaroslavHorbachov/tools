@@ -6,6 +6,7 @@ const versions = [
 
 const feats = [
     001,
+    002
 ]
 
 
