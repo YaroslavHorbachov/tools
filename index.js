@@ -6,13 +6,16 @@ const versions = [
 ]
 
 const patches = [
-    2.1
+    2.1,
+    2.2
 ]
 
 const feats = [
     001,
     002
 ]
+
+
 
 
 
